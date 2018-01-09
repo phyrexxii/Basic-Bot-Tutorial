@@ -2,11 +2,11 @@
 <html>
 <body>
 
-<h1>Basic Bot Tutorial</h1>
+<h2>Basic Bot Tutorial</h2>
 
 <p>A Repo For My Discord Bot Tutorial. Please follow all the steps listed here and on the video!</p>
 
-<h1>Configurations</h1>
+<h2>Configurations</h2>
 
 </body>
 </html>
