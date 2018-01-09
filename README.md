@@ -8,7 +8,9 @@
 
 <h1>Configurations</h1>
 
-<p>To get your bot token click <a href="https://discordapp.com/developers/applications/me">Here</a>. The click your bot, scroll down till you find "Token: click to reveal". copy that token and paste it in the Config.py file where it says TOKEN = "Your Token"</p>
+<p>1) To get your bot token click <a href="https://discordapp.com/developers/applications/me">Here</a>. The click your bot, scroll down till you find "Token: click to reveal". copy that token and paste it in the Config.py file where it says TOKEN = "Your Token"</p>
+
+<p>2) Select a prefix and type it in the Config.py file under PREFIX. Example: If i want my prefix to be "t." i would do this in the Config.py file under "PREFIX = "t."</p>
 
 </body>
 </html>
