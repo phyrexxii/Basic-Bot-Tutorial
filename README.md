@@ -2,15 +2,24 @@
 <html>
 <body>
 
-<h1>Basic Bot Tutorial</h1>
+<h2>Basic Bot Tutorial</h2>
 
 <p>A Repo For My Discord Bot Tutorial. Please follow all the steps listed here and on the video!</p>
 
-<h1>Configurations</h1>
+<h2>Prerequisites</h2>
+
+<p>1) Install Python 3.6.4 (Download Link <a href="https://www.python.org/ftp/python/3.6.4/python-3.6.4.exe">Here</a>).</p>
+
+<p>2) Add Python to PATH (As Shown Below)</p>
+<img src="https://1.bp.blogspot.com/-Iv2_eAzb3u8/WkNgYosQ1qI/AAAAAAAAAgw/PbWccmDJWiI5RfSOLGZeiwJCmOVVBDKKQCLcBGAs/s1600/Python%2Bsetup.PNG" alt="Mountain View" width="500" height="300">
+
+<h2>Configurations</h2>
 
 <p>1) To get your bot token click <a href="https://discordapp.com/developers/applications/me">Here</a>. The click your bot, scroll down till you find "Token: click to reveal". copy that token and paste it in the Config.py file where it says TOKEN = "Your Token"</p>
 
-<p>2) Select a prefix and type it in the Config.py file under PREFIX. Example: If i want my prefix to be "t." i would do this in the Config.py file under "PREFIX = "t."</p>
+<p>2) Select a prefix and type it in the Config.py file under PREFIX. Example: If i want my prefix to be "t." i would do this in the Config.py file under "PREFIX = "t.".</p>
+
+<p>3) Insert Your bots name into to Config.py file under "BOTNAME = "Your Bot Name".</p>
 
 </body>
 </html>
