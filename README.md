@@ -6,12 +6,18 @@
 
 <p>A Repo For My Discord Bot Tutorial. Please follow all the steps listed here and on the video!</p>
 
-<h2>Prerequisites</h2>
+<h2>How To Install</h2>
 
 <p>1) Install Python 3.6.4 (Download Link <a href="https://www.python.org/ftp/python/3.6.4/python-3.6.4.exe">Here</a>).</p>
 
 <p>2) Add Python to PATH (As Shown Below)</p>
 <img src="https://1.bp.blogspot.com/-Iv2_eAzb3u8/WkNgYosQ1qI/AAAAAAAAAgw/PbWccmDJWiI5RfSOLGZeiwJCmOVVBDKKQCLcBGAs/s1600/Python%2Bsetup.PNG" alt="Mountain View" width="500" height="300">
+
+<p>3) Type "pip install discord.py" into cmd</p>
+
+<p>4) Type "pip install datetime" into cmd</p>
+
+<p>Your All Done, Move on to Configurations below!</p>
 
 <h2>Configurations</h2>
 
