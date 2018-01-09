@@ -27,5 +27,11 @@
 
 <p>3) Insert Your bots name into to Config.py file under "BOTNAME = "Your Bot Name".</p>
 
+<p> Now Just double click Main.py And your bot should get online!</p>
+
+<h2>If You Have Any Issues: </h2>
+
+<p>Join My Support Server <a href="https://discord.gg/aXZMuCN">Here</a>
+
 </body>
 </html>
