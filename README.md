@@ -8,6 +8,10 @@
 
 <h2>How To Install</h2>
 
+<h2>Video Tutorial!</h2>
+
+<p>https://youtu.be/uz0nvfiynHY</p>
+
 <p>1) Install Python 3.6.4 (Download Link <a href="https://www.python.org/ftp/python/3.6.4/python-3.6.4.exe">Here</a>).</p>
 
 <p>2) Add Python to PATH (As Shown Below)</p>
