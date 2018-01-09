@@ -8,7 +8,7 @@
 
 <h1>Configurations</h1>
 
-<p>To get your bot token click [Here](https://discordapp.com/developers/applications/me). The click your bot, scroll down till you find "Token: click to reveal". copy that token and paste it in the Config.py file where it says TOKEN = "Your Token"</p>
+<p>To get your bot token click <a href="https://discordapp.com/developers/applications/me">Here</a>. The click your bot, scroll down till you find "Token: click to reveal". copy that token and paste it in the Config.py file where it says TOKEN = "Your Token"</p>
 
 </body>
 </html>
